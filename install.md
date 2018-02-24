@@ -1,3 +1,4 @@
+Edited by Shehan
 # Installing and Preparing the Human-Baxter Collaboration Framework
 
 > The following instructions are adapted in parts from [here](http://sdk.rethinkrobotics.com/wiki/Workstation_Setup).
